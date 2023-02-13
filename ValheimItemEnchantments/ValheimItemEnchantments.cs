@@ -10,7 +10,7 @@ namespace ValheimItemEnchantments
     //[NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod, VersionStrictness.Minor)]
     internal class ValheimItemEnchantments : BaseUnityPlugin
     {
-        public const string PluginGUID = "com.jotunn.ValheimItemEnchantments";
+        public const string PluginGUID = "xyz.xmit.ValheimItemEnchantments";
         public const string PluginName = "ValheimItemEnchantments";
         public const string PluginVersion = "0.0.1";
         
